@@ -1,4 +1,4 @@
-# azure-pipelines.yml
+# pipeline azure-pipelines.yml
 trigger:
 - main  # or 'master' if your branch is named that
 
